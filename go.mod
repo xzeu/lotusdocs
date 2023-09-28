@@ -1,3 +1,3 @@
-module github.com/colinwilson/lotusdocs
+module github.com/xzeu/lotusdocs
 
 go 1.19
