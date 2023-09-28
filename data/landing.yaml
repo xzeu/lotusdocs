@@ -91,7 +91,7 @@ features:
 
 # Image compare
 image_compare:
-  enable: true
+  enable: false
   weight: 30
 
   title: Customise The Lotus Docs Appearance
