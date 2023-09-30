@@ -2,7 +2,7 @@
 
 # Hero
 hero:
-  enable: false
+  enable: true
   weight: 10
 
   backgroundImage:
@@ -46,7 +46,7 @@ hero:
 
 # Features Grid
 features:
-  enable: false
+  enable: true
   weight: 20
 
   title: Why choose Lotus Docs?
@@ -91,7 +91,7 @@ features:
 
 # Image compare
 image_compare:
-  enable: false
+  enable: true
   weight: 30
 
   title: Customise The Lotus Docs Appearance
